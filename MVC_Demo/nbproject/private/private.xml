@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/web/search.jsp</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/src/java/hungnt/controller/DeleteAccountServlet.java</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/web/invalid.html</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/src/java/hungnt/controller/DispatchController.java</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/web/login.html</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/src/java/hungnt/registration/RegistrationDTO.java</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/web/index.html</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/web/META-INF/context.xml</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/src/java/hungnt/controller/ProcessRequestServlet.java</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/src/java/hungnt/controller/LoginServlet.java</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/src/java/hungnt/controller/SearchLastNameServlet.java</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/web/search.html</file>
+            <file>file:/D:/Hung/PRJ321/MVC_Demo/src/java/hungnt/registration/RegistrationDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
